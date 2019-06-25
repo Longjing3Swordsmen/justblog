@@ -1,2 +1,1 @@
-# justblog
-和少爷一起写代码
+# justblog和少爷一起写代码这个项目还是老生常谈的博客，之前写过几个 demo，这半年来一直使用 jelly 生成一个静态的网页，随着篇幅越来越多，文章读写和动画效果是个问题，上次看到了使用 halo 做出的效果，相比于静态页面已经够炫了。这次项目加了一个全栈工程师——少爷，有他在，前端炫酷的页面就有了。至于技术选型，目前定下的是：后端：  - tornado - mysql - nginx - docker - k8s  前端：  - react - typescript - grafana  服务器管理：  - vps - linux - prometheus二维码搞起，广告位预留。等一个 「大佬」 参与。
